@@ -48,9 +48,9 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
-           ▄︻┻═┳一 ♥️K๏MąIL-KђąЙ-๏FFIcIąL♥️----------🔴
-           ▄︻┻═┳一 ♥️♥️ K๏MąIL - cL๏Йєr  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪PAPPU-BACHA💪💪   🔴🔴
+           ▄︻┻═┳一 IRSHAD ๏FFIcIąL♥️----------🔴
+           ▄︻┻═┳一 ♥️♥️ IRSHAD - cL๏Йєr  ♥️♥️----🔴🔴
+           ▄︻┻═┳一    💪💪BETA ABHI SHURVAT HEA💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
 	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙg
 		  
