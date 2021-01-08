@@ -51,7 +51,7 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
            ▄︻┻═┳一 IRSHAD ๏FFIcIąL♥️----------🔴
            ▄︻┻═┳一 ♥️♥️ IRSHAD - cL๏Йєr  ♥️♥️----🔴🔴
            ▄︻┻═┳一    💪💪BETA ABHI SHURVAT HEA💪💪   🔴🔴
-           ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
+           ▄︻┻═┳一 ----    --------🔴🔴
 	          safar meñ dhuup to hogī jo chal sako to chalo 
 
 sabhī haiñ bhiiḌ meñ tum bhī nikal sako to chalo 
