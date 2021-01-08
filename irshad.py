@@ -88,7 +88,7 @@ inhīñ khilaunoñ se tum bhī bahal sako to chalo
         ђ๏Pє Y๏Ц MąY Gє┼ ๏Ц┼ЙЦMßєrєđ ącc๏ЦЙ┼ş 
        P๏şşIßLY şYЙcђr๏ЙI乙єđ ßY ┼ђIş GI┼ђЦß . 
           ♥️♥️♥️ ßєş┼ ๏F LЦcK  ♥️♥️♥️
-      ♥️♥️ rąM乙ąЙ MЦßąrąK ┼๏ єVєrY ß๏đY  ♥️♥️
+      ♥️♥️  ♥️♥️
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92m IRSHAD MIR
 \033[1;96mInstagram \033[1;93m: \033[1: _mirirshad_
