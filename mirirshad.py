@@ -52,7 +52,25 @@ logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr
            ▄︻┻═┳一 ♥️♥️ IRSHAD - cL๏Йєr  ♥️♥️----🔴🔴
            ▄︻┻═┳一    💪💪BETA ABHI SHURVAT HEA💪💪   🔴🔴
            ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
-	          ЩєLc๏Mє ┼๏ ЦЙLIMI┼єđ cL๏ЙIЙg
+	          safar meñ dhuup to hogī jo chal sako to chalo 
+
+sabhī haiñ bhiiḌ meñ tum bhī nikal sako to chalo 
+
+kisī ke vāste rāheñ kahāñ badaltī haiñ 
+
+tum apne aap ko ḳhud hī badal sako to chalo 
+
+yahāñ kisī ko koī rāsta nahīñ detā 
+
+mujhe girā ke agar tum sambhal sako to chalo 
+
+kahīñ nahīñ koī sūraj dhuāñ dhuāñ hai fazā 
+
+ḳhud apne aap se bāhar nikal sako to chalo 
+
+yahī hai zindagī kuchh ḳhvāb chand ummīdeñ 
+
+inhīñ khilaunoñ se tum bhī bahal sako to chalo
 		  
 		  🇮​​🇷​​🇸​​🇭​​🇦​​🇩​​
 		  
