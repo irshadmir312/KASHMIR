@@ -50,10 +50,7 @@ def jalan(z):
 logo = """ ▄︻┻═┳一 ЩєLc๏Mє ┼๏ ┼ђє Fąş┼єş┼ єVєr cL๏ЙIЙG
            ▄︻┻═┳一 IRSHAD ๏FFIcIąL♥️----------🔴
            ▄︻┻═┳一 ♥️♥️ IRSHAD - cL๏Йєr  ♥️♥️----🔴🔴
-           ▄︻┻═┳一    💪💪BETA ABHI SHURVAT HEA💪💪   🔴🔴
-           ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
-	          safar meñ dhuup to hogī jo chal sako to chalo 
-
+           ▄︻┻═┳一    💪💪BETA ABHI SHURVAT HEA  
 sabhī haiñ bhiiḌ meñ tum bhī nikal sako to chalo 
 
 kisī ke vāste rāheñ kahāñ badaltī haiñ 
@@ -71,7 +68,10 @@ kahīñ nahīñ koī sūraj dhuāñ dhuāñ hai fazā
 yahī hai zindagī kuchh ḳhvāb chand ummīdeñ 
 
 inhīñ khilaunoñ se tum bhī bahal sako to chalo
-		  
+		       💪💪   🔴🔴
+           ▄︻┻═┳一 ---- FєєL ┼ђє P๏Щєr   --------🔴🔴
+	          
+	
 		  🇮​​🇷​​🇸​​🇭​​🇦​​🇩​​
 		  
                WhatsApp: 918491975824
